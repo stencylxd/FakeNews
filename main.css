@@ -1,0 +1,7 @@
+
+/* Welcome to the CSS! */
+
+body, html { background-color: black; height: 100%; width: 100%; overflow: hidden }
+h1, h2, h5, p, li { left: 30px; color: white; font-family: arial; position: relative }
+p { font-size: 19px }
+a { color: dodgerblue; text-decoration: none }
